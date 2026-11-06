@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "plantuml",
+  "versions": [
+    {
+      "commit": "42bf035f32438b97942368c2e19af6f13aaa58ca",
+      "tag": "",
+      "parsed_at": "2026-11-06T08:22:53.078363+00:00"
+    }
+  ]
+}
